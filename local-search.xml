@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>hexo博客Demo</title>
+    <link href="/2022/06/20/hexo%E5%8D%9A%E5%AE%A2Demo/"/>
+    <url>/2022/06/20/hexo%E5%8D%9A%E5%AE%A2Demo/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th>标题一</th><th>标题二</th><th>标题三</th><th>标题四</th><th>标题五</th><th>标题六</th><th>标题七</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h1 id="HTML和代码块"><a href="#HTML和代码块" class="headerlink" title="HTML和代码块"></a>HTML和代码块</h1><div>    <h1>hello hexo！</h1>    <p>你好,hexo！</p></div><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Demo</span>&#123;<br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> &#123;<br>        System.out.println(<span class="hljs-string">&quot;hello hexo!&quot;</span>);<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure><h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><blockquote><p>这是一段引用！</p></blockquote><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><ol><li><p>有序列表</p></li><li><p>有序列表</p></li><li><p>有序列表</p></li></ol><ul><li><p>无序列表</p></li><li><p>无序列表</p></li><li><p>无序列表</p></li></ul><h1 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h1><ul><li><p><input disabled="" type="checkbox"> 计划一</p></li><li><p><input disabled="" type="checkbox"> 计划二</p></li><li><p><input disabled="" type="checkbox"> 计划三</p></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo博客搭建和部署流程</title>
     <link href="/2022/06/20/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B/"/>
     <url>/2022/06/20/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B/</url>
