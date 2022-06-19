@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>hexo博客搭建和部署流程</title>
+    <link href="/2022/06/20/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B/"/>
+    <url>/2022/06/20/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><p>安装node<br>安装git<br>安装hexo</p><h1 id="主题配置"><a href="#主题配置" class="headerlink" title="主题配置"></a>主题配置</h1><p>下载主题<br>安装主题<br>应用主题</p><h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/06/19/hello-world/"/>
     <url>/2022/06/19/hello-world/</url>
